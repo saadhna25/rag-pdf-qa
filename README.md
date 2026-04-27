@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) system that lets you upload any PDF and ask natural language questions about it. Built end-to-end with a custom pipeline and deployed as an interactive web app.
 
-**🔗 Live Demo:** [huggingface.co/spaces/saadhnasoman/rag-pdf-qa](https://huggingface.co/spaces/saadhnasoman/rag-pdf-qa)
+**🔗 Live Demo:** https://saadhna25-rag-pdf-qa-app-48gsrk.streamlit.app/
 
 ---
 
